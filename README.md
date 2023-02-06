@@ -3,7 +3,7 @@ This documentation and an edition of me from Orion Library.
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ElderOFC/elderhub/main/orioneditado')))()
 ```
 
 
